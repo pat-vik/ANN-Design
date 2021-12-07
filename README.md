@@ -64,6 +64,7 @@ Key features include:
 
 
 Beyond the basics:
+
 	Being new to neural networks, i have mostly covered all the basics for the implementation.
 	I have used the template provided and tried to achieve a descent accuracy.
 	
