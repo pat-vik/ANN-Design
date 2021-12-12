@@ -1,5 +1,4 @@
 # ANN-Design
-This is an assignment submitted for the course "Machine Intelligence" offered by PES University.
 
 Explanation of Implementation:
 	
